@@ -5,7 +5,7 @@
   <a href="https://andreawu.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
-<h2 align='left'> 🔨 Technologies & Tools </h2>
+<h3 align='left'> 🔨 Technologies & Tools </h3>
 <p>
   <a href="#"><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -33,7 +33,7 @@
   <a href="#"><img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
-<h2 align='left'>📚 Education</h2>
+<h3 align='left'>📚 Education</h3>
 <p>
   <a href="https://www.bcit.ca/"><img alt="bcit-logo" src="./media/bcit-logo.png" width="50"></a>
   <a href="#"><img alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
