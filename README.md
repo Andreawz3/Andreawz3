@@ -31,7 +31,7 @@
 
 <h2 align='left'>📚 Education</h2>
 <p>
-  <a href="https://www.bcit.ca/"><img alt="bcit-logo" src="./media/bcit-logo.png" width="20px" height="10px"></a>
+  <a href="https://www.bcit.ca/"><img alt="bcit-logo" src="./media/bcit-logo.png" width="50px" height="50px"></a>
   <a href="#"><img alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href="#"><img alt="w3school" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"></a>
 </p>
