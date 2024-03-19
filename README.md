@@ -1,12 +1,12 @@
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Andrea Wu</h2>
-<h3 align="center">👩‍💻 I'm Web Developer and Designer</h3>
+<h4 align="center">👩‍💻 I'm Web Developer and Designer</h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/andreawzh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://andreawu.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
-<h3 align='center'> 🔨 Technologies & Tools </h3>
-<p align="center">
+<h3> 🔨 Technologies & Tools </h3>
+<p>
   <a href="#"><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
