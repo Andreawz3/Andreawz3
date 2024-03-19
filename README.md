@@ -2,7 +2,7 @@
 
 <h2 align='center'>👩‍💻 About Me</h2>
 <p align='center'>
-  <p>andrea_wzh@hotmail.com</p>
+<!--   <p>andrea_wzh@hotmail.com</p> -->
   <a href="https://www.linkedin.com/in/andreawzh/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://andreawu.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="#"><img alt="" src=""></a>
