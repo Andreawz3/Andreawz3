@@ -5,8 +5,8 @@
   <a href="https://andreawu.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
-<h3 align='left'> 🔨 Technologies & Tools </h3>
-<p>
+<h3 align='center'> 🔨 Technologies & Tools </h3>
+<p align="center">
   <a href="#"><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
