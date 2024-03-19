@@ -1,5 +1,12 @@
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Andrea Wu</h2>
 
+<h2 align='left'> 🔨 Technologies & Tools </h2>
+
+<p>
+  <br>
+  <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
+
 <!--
 **Andreawz3/Andreawz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
