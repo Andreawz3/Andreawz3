@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Andrea Wu</h2>
 
 <!--
 **Andreawz3/Andreawz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
