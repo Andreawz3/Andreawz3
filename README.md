@@ -17,7 +17,7 @@
 </p>
 <p>
   <a href="#"><img alt="axios" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"></a>
-  <a href="#"><img alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></a>
+  <a href="#"><img alt="cypress" src="https://img.shields.io/badge/Cypress-60b995?style=for-the-badge&logo=cypress&logoColor=white"></a>
   <a href="#"><img alt="expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"></a>
   <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
