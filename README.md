@@ -1,11 +1,8 @@
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Andrea Wu</h2>
-
-<h2 align='center'>👩‍💻 About Me</h2>
 <p align='center'>
-<!--   <p>andrea_wzh@hotmail.com</p> -->
-  <a href="https://www.linkedin.com/in/andreawzh/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andreawzh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://andreawu.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="#"><img alt="" src=""></a>
+<!--   <a href="#"><img alt="" src=""></a> -->
 </p>
 
 <h2 align='left'> 🔨 Technologies & Tools </h2>
@@ -18,7 +15,7 @@
   <a href="#"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="json" src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
+  <a href="#"><img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <!--   <a href="#"><img alt="" src=""></a> -->
 </p>
 <p>
