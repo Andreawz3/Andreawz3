@@ -7,7 +7,7 @@
 
 <h2 align='left'> 🔨 Technologies & Tools </h2>
 <p align='left'>
-  <a href="#" style="background-color: yellow; height:'100px'"><img alt="react" src="https://img.shields.io/badge/React-142d74?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="#" style="background-color: yellow; height:100px"><img alt="react" src="https://img.shields.io/badge/React-142d74?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-7dd5d2?style=for-the-badge&logo=next.js&logoColor=white">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
