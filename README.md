@@ -1,11 +1,11 @@
-<h2 align="center" style="font-size: 20px;"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Andrea Wu</h2>
-<!-- <h3 align="center">👩‍💻 I'm Web Developer and Designer</h3> -->
+<h2 align="center">Hello there<img src="./media/waving-hand.gif" width="28"> I'm Andrea Wu 👩🏻‍💻</h2>
+<p align="center">👩‍💻 A Web Developer & Designer</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/andreawzh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://andreaw.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
-<h2 align='left' style="font-size: 20px;"> 🔨 Technologies & Tools </h2>
+<h2 align='left'> 🔨 Technologies & Tools </h2>
 <p align='left'>
   <a href="#"><img alt="react" src="https://img.shields.io/badge/React-142d74?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-7dd5d2?style=for-the-badge&logo=next.js&logoColor=white">
