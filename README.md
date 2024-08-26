@@ -1,5 +1,5 @@
-<h2 align="center">Hello there<img src="./media/waving-hand.gif" width="28"> I'm Andrea Wu 👩🏻‍💻</h2>
-<p align="center">A Web Developer & Designer</p>
+<h2 align="center">Hello there! I'm Andrea Wu<img src="./media/waving-hand.gif" width="28"></h2>
+<p align="center">👩🏻‍💻 A Web Developer & Designer</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/andreawzh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://andreaw.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
