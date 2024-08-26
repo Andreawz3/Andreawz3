@@ -10,7 +10,7 @@
   <a href="#"><img height="28" alt="react" src="https://img.shields.io/badge/React-142d74?style=for-the-badge&logo=react&logoColor=61DAFB&logoHeight=50&height=50"></a>
   <a href="#"><img height="28" alt="Next.js" src="https://img.shields.io/badge/Next-7dd5d2?style=for-the-badge&logo=next.js&logoColor=white">
   <a href="#"><img height="28" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img height="28" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="#"><img height="28" border="none" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img height="28" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img height="28" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img height="28" alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
